@@ -1,0 +1,320 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.mainpage-background{
+    background-image: url(../image/uberbg.jpg);
+    background-size: cover;
+    height: 700px;
+    background-image: linear-gradient(rgba(0,0,0,8));
+   
+    
+}
+.header-maindiv{
+    display: flex;
+    justify-content: space-between;
+}
+.btn-login{
+    background-color: white;
+    width: 102px;
+    font-size: 15px;
+    height: 48px;
+    border: none;
+    border-radius: 30px;
+    margin-left: 850px;
+    margin-top: 20px;
+    cursor: pointer;  
+}
+.btn-login:hover{
+    background-color: darkgray;
+}
+.btn-signup{
+    background-color:black;
+    color: white;
+    font-size: 15px;
+    width: 102px;
+    height: 48px;
+    border: none;
+    border-radius: 30px;
+    margin-right: 50px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.btn-signup:hover{
+    background-color: rgb(61, 60, 60);
+}
+.ubereats-logo{
+    width: 124px;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.headline-content{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 52px;
+}
+.head-line{
+    margin-left: 44px;
+    margin-top: 180px;
+}
+.delivery-address{
+    width: 540px;
+    height: 54px;
+    font-weight: bold;
+    font-size: 16px;
+    border: 0;
+    padding-left: 17px; 
+}
+.location-image{
+    width: 20px;
+    padding-top: 16px;
+}
+.location-div{
+    background-color: white;
+    width: 40px;
+    text-align: center;
+    height: 56px;     
+}
+.clock-image{
+    width: 20px;
+    padding-top: 16px;
+    
+}
+.clock-div{
+    background-color: white;
+    width: 40px;
+    text-align: center;
+    margin-left: 20px;
+}
+.delivery-now{
+    width: 200px;
+    height: 56px;
+    font-size: 14px;
+    border: 0;
+    font-weight: bold;
+   
+}
+.btn-findfood{
+    height: 55px;
+    width: 110px;
+    border-radius: 8px;
+    background-color: black;
+    color: white;
+    border: none;
+    font-weight: bold;
+    font-size: 16px;
+    cursor: pointer;
+    margin-left: 20px;
+}
+.btn-findfood:hover{
+    background-color: rgb(56, 55, 55);
+}
+.input-details{
+    display: flex;
+    padding-left: 50px;
+    
+}
+.signin-for-more{
+    margin-left: 50px;
+    font-weight: 600;
+    font-size: 15px;
+}
+.signin{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.second-card-div{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 80px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.first-image{
+    width: 407px;  
+    cursor: pointer;
+}
+.second-image{
+    width: 407px; 
+    cursor: pointer; 
+}
+.third-image{
+    width: 407px; 
+    cursor: pointer;  
+}
+.image1-heading{
+    font-size: 25px;
+    cursor: pointer;
+}
+.image1-description{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.image2-heading{
+    font-size: 25px;
+    cursor: pointer;
+}
+.image2-description{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.image3-heading{
+    font-size: 25px;
+    cursor: pointer;
+}
+.image3-description{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.third-div{
+    display: flex;
+    justify-content: space-around;   
+}
+.third-div1{
+    margin-top: 80px;
+    margin-right: 500px;
+   
+}
+.third-div2{
+    margin-top: 99px;
+    margin-left: 90px;
+    text-decoration: underline;
+    font-size: 15px;
+    cursor: pointer;
+    
+}
+P{
+    cursor: pointer;
+}
+li{
+    cursor: pointer;
+}
+li:hover{
+    text-decoration: underline;
+}
+.map{
+    margin-left: 40px;
+}
+.city-locations{
+    
+    margin-top: 10px;
+}
+.city-names{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.all-other-countries{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.item1{
+    margin-right: 700PX;
+}
+.item2{
+    margin-top: 20px;
+    text-decoration: underline;
+}
+.sub-all-other-countries-second{
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 1px solid rgb(136, 133, 133);
+}
+.appstore-playstore{
+    display: flex;
+    margin-top: 200px;
+}
+.playstore-image{
+    width: 135px;
+    height: 40px;
+    padding-left: 25px;
+    cursor: pointer;
+}
+.appstore-image{
+    cursor: pointer;
+}
+.logo-appstores{
+    margin-top: 70px;
+    padding-left: 40px;
+    
+}
+.ubereats-footer1{
+    display: flex;
+}
+ul{
+    list-style: none;
+    
+}
+li{
+    margin-top: 30px;
+}
+.list1{
+    padding-top: 32px;
+    margin-left: 200px;
+}
+
+.social-media{
+    display: flex;
+    
+}
+.img-facebook{
+    width: 22px;
+    cursor: pointer;
+
+   
+    
+}
+.img-twitter{
+    width: 16px;
+    margin-left: 12px;
+    cursor: pointer;
+}  
+.img-instagram{
+    width: 16px;
+    margin-left: 12px;
+    cursor: pointer;
+    
+}
+.social-media{
+    margin-left: 50px;
+    margin-top: 20px;
+    align-items: center;
+}
+
+.footer-last{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 50px;
+    
+    
+    
+}
+.footer-content3{
+    display: flex;
+    
+    
+}
+.last-footer{
+    margin-left: 30px;
+    cursor: pointer;
+}
+.last-footer:hover{
+    text-decoration: underline;
+}
+.footer-last1{
+    display: flex;
+    justify-content: right;
+    font-size: 14px;
+    margin-right: 50px;
+    
+}
+.first-content-last1{
+    margin-right: 40px;
+}
+.first-content-last2{
+   margin-bottom: 70px;
+}
